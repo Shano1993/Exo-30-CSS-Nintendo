@@ -14,7 +14,6 @@
 #bloc_one {
     background-color: #e60012;
     position: absolute;
-    display: inline-block;
     height: 874px;
     width: 88px;
 }
@@ -47,38 +46,32 @@ h1 {
 
 #connexion {
     float: right;
-    display: inline-block;
     margin-top: -71px;
 }
 
 #panier {
     float: right;
-    display: inline-block;
     margin-top: -71px;
     margin-right: 80px;
 }
 
 #liste {
     float: right;
-    display: inline-block;
     margin-top: -70px;
     margin-right: 155px;
 }
 
 #search {
     float: right;
-    display: inline-block;
     margin-top: -71px;
     margin-right: 229px;
 }
 
 #menu-image {
     margin-left: 85px;
-    display: inline-block;
 }
 
 #menu_right {
-    display: inline-block;
     float: right;
     margin-top: -875px;
 }
