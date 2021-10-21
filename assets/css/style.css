@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#bloc{
+    background-color: #e60012;
+    height: 72px;
+    position: relative;
+    display: block;
+    width: 1612px;
+}
+
+#bloc_one {
+    background-color: #e60012;
+    position: absolute;
+    display: inline-block;
+    height: 874px;
+    width: 88px;
+}
+
+h1 {
+    color: white;
+    padding-top: 20px;
+}
+
+#menu {
+    padding-top: 14px;
+    padding-left: 10px;
+}
+
+#hardware {
+    margin-top: -6px;
+}
+
+#e-shop {
+    margin-left: 1px;
+}
+
+#news {
+    margin-top: -6px;
+}
+
+#back {
+    margin-top: -3px;
+}
+
+#connexion {
+    float: right;
+    display: inline-block;
+    margin-top: -71px;
+}
+
+#panier {
+    float: right;
+    display: inline-block;
+    margin-top: -71px;
+    margin-right: 80px;
+}
+
+#liste {
+    float: right;
+    display: inline-block;
+    margin-top: -70px;
+    margin-right: 155px;
+}
+
+#search {
+    float: right;
+    display: inline-block;
+    margin-top: -71px;
+    margin-right: 229px;
+}
+
+#menu-image {
+    margin-left: 85px;
+    display: inline-block;
+}
+
+#menu_right {
+    display: inline-block;
+    float: right;
+    margin-top: -875px;
+}
