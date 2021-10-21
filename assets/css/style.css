@@ -23,7 +23,17 @@ body {
     display: block;
     position: absolute;
     width: 88px;
-    height: 820px;
+    height: 880px;
+}
+
+#bloc_three {
+    margin-top: -685px;
+    margin-left: 90px;
+}
+
+#bloc_four {
+    margin-left: 1450px;
+    margin-top: -878px;
 }
 
 #menu {
